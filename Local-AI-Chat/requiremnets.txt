@@ -1,0 +1,9 @@
+streamlit 
+ollama
+typing
+sounddevice 
+numpy 
+torch 
+transformers 
+soundfile 
+pydub
