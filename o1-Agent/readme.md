@@ -1,4 +1,4 @@
-# NemoTron - Multi-Agent AI Assistant
+# LLama3.2 - Multi-Agent AI Assistant
 
 A Python-based multi-agent system that creates an AI assistant (O1) using Ollama for advanced reasoning and problem-solving.
 
