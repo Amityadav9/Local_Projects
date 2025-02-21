@@ -40,7 +40,7 @@ This Streamlit application provides a powerful local Retrieval-Augmented Generat
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/Amityadav9/Local_Projects.git
 cd deepseek-rag-agent
 ```
 
