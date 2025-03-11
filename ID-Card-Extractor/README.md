@@ -32,7 +32,7 @@ A powerful tool that extracts structured information from identity documents inc
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Amityadav9/Local_Projects/id-card-extractor.git
+   git clone https://github.com/Amityadav9/Local_Projects/Document_Extractor.git
    cd id-card-extractor
    ```
 
@@ -122,6 +122,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📞 Contact
 
-For questions or feedback, please open an issue on this repository or contact [your-email@example.com](mailto:your-email@example.com)
