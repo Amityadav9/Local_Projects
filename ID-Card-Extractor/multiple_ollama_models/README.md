@@ -8,7 +8,6 @@
 
 A Streamlit-based application for extracting personal information from ID documents using local LLMs (Large Language Models) powered by Ollama. This application leverages multimodal vision capabilities of models like Gemma 3 and Llama 3 to perform OCR-like extraction without sending your sensitive data to external APIs.
 
-![App Screenshot](docs/app_screenshot.png)
 
 ## Features
 
