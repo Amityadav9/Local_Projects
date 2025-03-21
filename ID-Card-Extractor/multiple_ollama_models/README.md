@@ -37,7 +37,7 @@ A Streamlit-based application for extracting personal information from ID docume
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/id-document-extractor.git
+   git clone https://github.com/Amityadav9/Local_Projects.git
    cd id-document-extractor
    ```
 
