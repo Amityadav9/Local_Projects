@@ -38,14 +38,11 @@ A Streamlit-based application for extracting personal information from ID docume
 1. Clone the repository:
    ```bash
    git clone https://github.com/Amityadav9/Local_Projects.git
-   cd id-document-extractor
+   cd Local_Projects
    ```
 
 2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   or install directly:
+   install directly:
    ```bash
    pip install streamlit pillow requests
    ```
