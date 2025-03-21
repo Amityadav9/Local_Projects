@@ -5,7 +5,6 @@
 
 A powerful tool that extracts structured information from identity documents including passports, ID cards, residence permits, and more. This application combines OCR, text processing, and optional AI vision analysis to accurately parse document details and save them in JSON format.
 
-![Demo Screenshot](screenshots/demo.png)
 
 ## 🌟 Features
 
