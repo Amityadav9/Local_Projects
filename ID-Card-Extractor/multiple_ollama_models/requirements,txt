@@ -1,1 +1,5 @@
-
+streamlit
+requests
+Pillow
+python-dotenv
+regex
