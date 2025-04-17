@@ -96,7 +96,7 @@ def main():
             options=["llama3.2-vision:latest", "llama3:11b-vision"],
         )
 
-    # Language selection for prompt
+    # Language selection for prompt, but English is recommended
     prompt_language = st.sidebar.radio("Prompt Language", options=["German", "English"])
 
     # File uploader
