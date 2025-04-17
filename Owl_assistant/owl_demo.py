@@ -13,9 +13,6 @@
 # streamlit run app.py
 #
 # Note: Browser automation may not work correctly in Streamlit due to event loop 
-# conflicts. For reliable browser automation, use owl_demo.py instead.
-#
-# Author: Your Name
 # Based on the OWL Framework by CAMEL-AI.org
 # =============================================
 
